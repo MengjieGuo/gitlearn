@@ -9,3 +9,6 @@ Creating a new breanch is quick and simple or not?
 >>>>>>> featurel
 
 no fast forward
+
+dev stash1.
+dev stash2.
